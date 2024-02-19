@@ -4,7 +4,7 @@
 
 I'm passionate about coding and building cool projects! 🚀
 
-🔭 I'm currently working on some exciting.
+🔭 I'm currently working on some exciting projects.
 
 🌱 I'm always eager to learn and explore new technologies.
 
