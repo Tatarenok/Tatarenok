@@ -100,7 +100,7 @@
 
 <h2 align="center">📫 Контакты</h2>
 <p align="center">
-  <a href="[https://vk.com/yourprofile](https://vk.com/nnur1101)"><img src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="VK" /></a>
+  <a href="https://vk.com/nnur1101"><img src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="VK" /></a>
   <a href="https://t.me/nailxdd"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" /></a>
 </p>
 <p align="center">Спасибо за посещение моего профиля! 😊</p>
