@@ -89,15 +89,6 @@
   </table>
 </p>
 
-
-<h2 align="center">📂 Мои лучшие проекты</h2>
-<h3 align="center">RinHack 2024 - Анализ почты</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/l0Ex7bNpaSADcYxUA/giphy.gif" alt="Email Analysis" /><br>
-  - <strong>Описание:</strong> Анализ почты в режиме offline для оптимизации процессов выявления утечек конфиденциальной информации.<br>
-  - <strong>Инструменты:</strong> KVlang, Python, opencv-python, PyPDF2 и др.
-</p>
-
 <h2 align="center">📫 Контакты</h2>
 <p align="center">
   <a href="https://vk.com/nnur1101"><img src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="VK" /></a>
