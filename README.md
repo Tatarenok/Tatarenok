@@ -47,7 +47,7 @@
     </tr>
     <tr>
       <td><img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" /></td>
-      <td>Начинающий</td>
+      <td>Средний</td>
     </tr>
     <tr>
       <td><img src="https://img.icons8.com/color/96/000000/adobe-photoshop.png" alt="Photoshop" width="48" height="48"/></td>
