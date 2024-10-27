@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" /></td>
-      <td>Средний</td>
+      <td>Высокий</td>
     </tr>
     <tr>
       <td><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" /></td>
