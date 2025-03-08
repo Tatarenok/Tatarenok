@@ -43,7 +43,7 @@
     </tr>
     <tr>
       <td><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" /></td>
-      <td>Начинающий</td>
+      <td>Средний</td>
     </tr>
     <tr>
       <td><img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" /></td>
