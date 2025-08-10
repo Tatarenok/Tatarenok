@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет! Я — Наиль Нурмухамедов</h1>
+<h1 align="center">👋 Привет! Меня зовут — Наиль</h1>
 <h3 align="center">💻 Junior DevOps / Системный администратор / Инженер сопровождения</h3>
 
 <p align="center">
